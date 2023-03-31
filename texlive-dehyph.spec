@@ -1,6 +1,6 @@
 Name:		texlive-dehyph
 Version:	48599
-Release:	2
+Release:	3
 Summary:	German hyphenation patterns for traditional orthography
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dehyph
