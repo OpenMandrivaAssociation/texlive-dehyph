@@ -3,7 +3,7 @@ Version:	48599
 Release:	3
 Summary:	German hyphenation patterns for traditional orthography
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dehyph
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dehyph
 License:	lppl1
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dehyph.r%{version}.tar.xz
 BuildArch:	noarch
